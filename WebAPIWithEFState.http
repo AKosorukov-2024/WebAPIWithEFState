@@ -1,0 +1,6 @@
+@WebAPIWithEFState_HostAddress = http://localhost:5279
+
+GET {{WebAPIWithEFState_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
